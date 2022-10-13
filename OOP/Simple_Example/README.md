@@ -1,4 +1,4 @@
-#Simple python OOP usage
+# Simple python OOP usage
 
 Try using all methods!
 
